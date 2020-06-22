@@ -1,2 +1,2 @@
-# wzjleetcode
+# wzj_leetcode
 my code
